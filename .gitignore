@@ -2,3 +2,7 @@
 *.py[cod]
 __pycache__/
 .python-version
+
+out/
+log-*
+network*
