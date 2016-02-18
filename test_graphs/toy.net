@@ -1,0 +1,69 @@
+*vertices 25
+1 1 0.0 0.0 ellipse group 3
+2 2 0.0 0.0 ellipse group 3
+3 3 0.0 0.0 ellipse group 3
+4 4 0.0 0.0 ellipse group 3
+5 5 0.0 0.0 ellipse group 3
+6 6 0.0 0.0 ellipse group 3
+7 7 0.0 0.0 ellipse group 3
+8 8 0.0 0.0 ellipse group 3
+9 9 0.0 0.0 ellipse group 3
+10 10 0.0 0.0 ellipse group 3
+11 11 0.0 0.0 ellipse group 3
+12 12 0.0 0.0 ellipse group 3
+13 13 0.0 0.0 ellipse group 3
+14 14 0.0 0.0 ellipse group 3
+15 15 0.0 0.0 ellipse group 3
+16 16 0.0 0.0 ellipse group 3
+17 17 0.0 0.0 ellipse group 3
+18 18 0.0 0.0 ellipse group 3
+19 19 0.0 0.0 ellipse group 3
+20 20 0.0 0.0 ellipse group 3
+21 21 0.0 0.0 ellipse group 3
+22 22 0.0 0.0 ellipse group 3
+23 23 0.0 0.0 ellipse group 3
+24 24 0.0 0.0 ellipse group 3
+25 25 0.0 0.0 ellipse group 3
+*edges
+1 2 1.0
+2 3 1.0
+2 4 1.0
+2 5 1.0
+2 6 1.0
+3 4 1.0
+4 6 1.0
+4 7 1.0
+5 6 1.0
+7 8 1.0
+7 9 1.0
+7 10 1.0
+8 10 1.0
+8 13 1.0
+8 14 1.0
+9 10 1.0
+9 11 1.0
+10 11 1.0
+10 12 1.0
+11 12 1.0
+11 13 1.0
+12 13 1.0
+13 25 1.0
+14 16 1.0
+14 18 1.0
+14 15 1.0
+15 16 1.0
+16 17 1.0
+16 18 1.0
+16 19 1.0
+16 20 1.0
+16 21 1.0
+18 21 1.0
+19 20 1.0
+19 21 1.0
+20 21 1.0
+21 22 1.0
+22 24 1.0
+22 25 1.0
+22 23 1.0
+23 24 1.0
+23 25 1.0
